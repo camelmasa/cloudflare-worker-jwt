@@ -1,5 +1,5 @@
-if (typeof crypto === 'undefined' || !crypto.subtle)
-    throw new Error('SubtleCrypto not supported!')
+// if (typeof crypto === 'undefined' || !crypto.subtle)
+//     throw new Error('SubtleCrypto not supported!')
 
 /**
  * @typedef JwtAlgorithm
